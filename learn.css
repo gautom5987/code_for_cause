@@ -1,8 +1,8 @@
 #learn
 {
-    background-color: black;
+    background-image: linear-gradient(90deg, black,#010154, #160082);
     color: white;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 80px;
 }
 #code

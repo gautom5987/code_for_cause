@@ -7,3 +7,14 @@
     
     margin-left: 800px;
 }
+#subscribe
+{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 3px 5px 5px 3px;
+}
+#exp
+{
+    background-color:#d9ecfa ;
+}
