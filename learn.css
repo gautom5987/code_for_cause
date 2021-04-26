@@ -7,8 +7,8 @@
 }
 #code
 {   
-    
-    margin-left: 550px;
+    margin-top: 0px;
+    margin-left: 800px;
 }
 .learnt
 {   
@@ -16,9 +16,11 @@
     margin-right: 925px;
 
 }
-.play
+#play
 {
-    text-decoration-color: white;
-    padding: 7px 40px 40px 7px;
-    background-color: tomato;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+    background-color: #A60000;
 }
